@@ -1,0 +1,5 @@
+[7, 5, 1, 8, 3, 6, 0, 9, 4, 2] Binary-Search-Tree ->
+ Root 6
+ 6'nın soluna 5, sağına 7
+ 5'in solunda 2, sağında 3 | 7'nin sağında 9, solunda 8
+ 2'nin solunda 0, sağında 1
